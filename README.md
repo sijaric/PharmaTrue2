@@ -9,7 +9,7 @@ git clone https://github.com/sijaric/PharmaTrue2.git
 
 After downloading your 23andMe raw data (txt file) from the official 23andMe website and renaming it to "genome.txt", you can add it to the PharmaTrue2 directory.
 
-Finally, you run the "hi.py" script using the following command in the zsh terminal (after navigating to the PharmaTrue directory):
+Finally, you run the "hi.py" script using the following command in the zsh terminal (after navigating to the PharmaTrue2 directory):
 python3 hi.py
 
 The above assumes that you have python and pandas installed. 
