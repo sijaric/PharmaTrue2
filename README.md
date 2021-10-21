@@ -5,7 +5,7 @@ The PharmaTrue repo contains a file named "hi.py", alongside supplementary infor
 NOTE: 23andMe reports should not be used to make medical decisions - this must always be done in consultation with licensed medical professionals. This repository, along with your 23andMe report might, however, serve to start such a discussion. 
 
 First, clone this repo using the following command in your terminal:
-git clone https://github.com/sijaric/PharmaTrue.git
+git clone https://github.com/sijaric/PharmaTrue2.git
 
 After downloading your 23andMe raw data (txt file) from the official 23andMe website and renaming it to "genome.txt", you can add it to the PharmaTrue directory.
 
