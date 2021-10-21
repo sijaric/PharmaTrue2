@@ -16,6 +16,6 @@ The above assumes that you have python and pandas installed.
 
 ### A list of your potentially genetically incompatible pharmaceutical substances will be displayed in the terminal, on the basis of your  23andMe genomic report. 
 
-
+### PharmGKB is the source of the "var_pheno_ann.tsv" file, which indicates associations between nsSNVs and their drug response phenotypes, along with information on the drug involved.
 
 
