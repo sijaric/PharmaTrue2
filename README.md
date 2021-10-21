@@ -14,7 +14,7 @@ python3 hi.py
 
 The above assumes that you have python and pandas installed. 
 
-### A list of potentially problematic pharmaceutical products will be displayed in the terminal, on the basis of your genomic report. 
+### A list of potentially problematic pharmaceutical products will be displayed in the terminal, on the basis of your personal 23andMe genomic report. 
 
 
 
