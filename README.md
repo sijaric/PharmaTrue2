@@ -7,7 +7,7 @@ NOTE: 23andMe reports should not be used to make medical decisions - this must a
 First, clone this repo by executing the following command in your terminal:
 git clone https://github.com/sijaric/PharmaTrue2.git
 
-After downloading your 23andMe raw data (txt file) from the official 23andMe website and renaming it to "genome.txt", you can add it to the PharmaTrue directory.
+After downloading your 23andMe raw data (txt file) from the official 23andMe website and renaming it to "genome.txt", you can add it to the PharmaTrue2 directory.
 
 Finally, you run the "hi.py" script using the following command in the zsh terminal (after navigating to the PharmaTrue directory):
 python3 hi.py
