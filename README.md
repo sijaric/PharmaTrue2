@@ -1,6 +1,6 @@
-# PharmaTrue
+# PharmaTrue2
 
-The PharmaTrue repo contains a file named "hi.py", alongside supplementary information regarding pharmacogenomic indicators, which can be used to produce a personalized list of potentially problematic pharmaceutical substances, on the basis of direct-to-consumer 23andMe genomic reports (which indicate Single-nucleotide polymorphisms - SNPs).
+The PharmaTrue2 repo contains a file named "hi.py", alongside supplementary information regarding pharmacogenomic indicators, which can be used to produce a personalized list of potentially problematic pharmaceutical substances, on the basis of direct-to-consumer 23andMe genomic reports (which indicate Single-nucleotide polymorphisms - SNPs).
 
 NOTE: 23andMe reports should not be used to make medical decisions - this must always be done in consultation with licensed medical professionals. This repository, along with your 23andMe report might, however, serve to start such a discussion. 
 
